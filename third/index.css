@@ -1,0 +1,45 @@
+body {
+    background-color: white;
+    margin: auto;
+    height: auto;
+}
+
+.container {
+    background-color:white;
+}
+
+.row1 {
+    background-color: gray;
+    height: 100px;
+}
+.box {
+    height: 50px;
+    width: 50px;
+    background-color: lightskyblue;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.row2 {
+    background-color: white;
+    height: 200px;
+    text-align: center;
+    padding: 100px 75px;
+}
+.row3 {
+    background-color: lightskyblue;
+    height: 75px;
+}
+.row4 {
+    background-color: turquoise;
+    height: 75px;
+}
+.row5 {
+    background-color: greenyellow;
+    height: 75px;
+}
+.row6 {
+    background-color:yellow;
+    height: 75px;
+}
